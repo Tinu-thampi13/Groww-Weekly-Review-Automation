@@ -1,0 +1,23 @@
+Subject: Weekly Groww App Review Pulse
+
+Hi,
+
+Sharing this week’s review pulse summary:
+
+Top themes identified:
+- Onboarding friction
+- KYC delays
+- Payment issues
+
+Representative user sentiment suggests improving signup clarity,
+speeding verification visibility, and debugging payment failures.
+
+Three recommended actions:
+1. Simplify onboarding flow
+2. Improve KYC transparency
+3. Investigate payment logs
+
+Full note attached.
+
+Thanks
+Tinu
